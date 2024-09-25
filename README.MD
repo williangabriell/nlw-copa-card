@@ -18,7 +18,7 @@ Card copa 2022
 <br>
 
 <p align="center">
-  <img alt="Instagram Clone" src="./assets/cardcopa.gif" width="100%">
+  <img alt="Card Copa" src="./assets/cardcopa.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
