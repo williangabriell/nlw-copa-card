@@ -34,7 +34,7 @@ Figurinha da Copa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://williangabriell.github.io/nlw-copa-card/). É necessário ter conta no [Figma](https://www.figma.com/design/n4a3jhGZQzysXClp99bfyT/NLW-Copa-Card/duplicate) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/n4a3jhGZQzysXClp99bfyT/NLW-Copa-Card/duplicate?node-id=0-1&node-type=canvas). É necessário ter conta no [Figma](https://www.figma.com/) para acessá-lo.
 
 
 ## 📝 Licença
